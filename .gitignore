@@ -1,4 +1,5 @@
 .DS_Store
-TheSimpsons
-.venv
-.idea
+TheSimpsons/
+MassachusettsRoads/
+.venv/
+.idea/
