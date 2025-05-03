@@ -1,5 +1,6 @@
 .DS_Store
-TheSimpsons/
-MassachusettsRoads/
 .venv/
 .idea/
+TheSimpsons/
+MassachusettsRoads/
+DroneDataset/
